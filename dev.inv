@@ -1,3 +1,2 @@
 [dev]
 172.31.40.74 ansible_user=ubuntu
-172.31.37.128 ansible_user=ubuntu
